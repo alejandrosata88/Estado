@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\bin\Debug\Estado.exe.config
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\bin\Debug\Estado.exe
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\bin\Debug\Estado.pdb
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\obj\Debug\Estado.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\obj\Debug\Estado.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\obj\Debug\Estado.exe
+C:\BOT\Cursos\Patrones\Estado\Estado\Estado\obj\Debug\Estado.pdb
